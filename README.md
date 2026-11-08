@@ -61,7 +61,7 @@ After exploration, the robot uses the calculated distance map to follow an optim
 
 The Flood Fill algorithm is a pathfinding technique commonly used in maze-solving robots.
 
-Algorithm Workflow:
+**Algorithm Workflow:**
 
 Initialize the maze and distance values.
 
@@ -77,7 +77,7 @@ Repeat distance updates whenever required.
 
 Navigate towards the destination using the calculated path.
 
-📁 Repository Structure
+**Repository Structure**
 
 maze-solver-robot/
 │
@@ -100,11 +100,11 @@ maze-solver-robot/
     ├── robot/
     └── testing/
 
-📷 Project Gallery
+**Project Gallery**
 
 Project photographs, hardware assembly, circuit diagrams and testing demonstrations are included in the repository.
 
-🎯 Applications
+**Applications**
 
 Autonomous mobile robotics.
 
@@ -116,12 +116,12 @@ Sensor integration and motor control.
 
 Robotics navigation algorithms.
 
-👨‍💻 Developer
+**Developer:**
 
-Viral Parekh
+**Viral Parekh**
 
 Electronics & Communication Engineering
 
-GitHub: viralkparekh
+• GitHub: https://github.com/viralkparekh
 
-LinkedIn: Viral Parekh
+• LinkedIn: https://www.linkedin.com/in/viral-parekh-86225b398
