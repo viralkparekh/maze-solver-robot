@@ -124,24 +124,43 @@ The Flood Fill algorithm is a pathfinding technique commonly used in maze-solvin
 **Repository Structure**
 
 maze-solver-robot/
+
 │
+
 ├── README.md
+
 │
+
 ├── firmware/
+
 │   └── maze_solver/
+
 │
+
 ├── hardware/
+
 │   ├── circuit_diagrams/
+
 │   ├── pcb_design/
+
 │   └── pinout/
+
 │
+
 ├── documentation/
+
 │   ├── working_principle.md
+
 │   ├── flood_fill_algorithm.md
+
 │   └── components_list.md
+
 │
+
 └── images/
+
     ├── robot/
+    
     └── testing/
 
 **Project Gallery**
@@ -150,15 +169,15 @@ Project photographs, hardware assembly, circuit diagrams and testing demonstrati
 
 **Applications**
 
-Autonomous mobile robotics.
+• Autonomous mobile robotics.
 
-Maze exploration and pathfinding.
+• Maze exploration and pathfinding.
 
-Embedded systems and firmware development.
+• Embedded systems and firmware development.
 
-Sensor integration and motor control.
+• Sensor integration and motor control.
 
-Robotics navigation algorithms.
+• Robotics navigation algorithms.
 
 **Developer:**
 
