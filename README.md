@@ -1,20 +1,36 @@
 # maze-solver-robot
-#An autonomous maze-solving robot developed using the Teensy 4.1 microcontroller, designed to explore and navigate a 16×16 maze using the Flood Fill Algorithm. The system integrates IR-based wall detection, Time-of-Flight distance sensing, motor encoder feedback and gyroscope-based motion sensing for autonomous navigation and shortest-path calculation.
-#**Project Overview**
-#The Maze Solver Robot is an embedded robotics project focused on autonomous maze exploration and pathfinding. It detects walls, maintains maze information, calculates optimal paths using the Flood Fill algorithm and navigates towards the destination.
-#**The robot follows a two-stage approach:**
-#Exploration Phase: Explores the maze and identifies walls and accessible paths.
-#Shortest Path Phase: Calculates and follows the optimal route towards the destination using updated maze information.
-#**Key Features**
-#Autonomous navigation through a 16×16 maze.
-#Flood Fill algorithm for maze exploration and shortest-path calculation.
-#IR sensor-based wall detection.
-#VL53L0X Time-of-Flight distance measurement.
-#Motor encoder feedback for movement control.
-#6-axis gyroscope for motion sensing.
-#Dual N20 DC motor control.
-#Teensy 4.1-based embedded control architecture.
-#**Hardware Components**
+An autonomous maze-solving robot developed using the Teensy 4.1 microcontroller, designed to explore and navigate a 16×16 maze using the Flood Fill Algorithm. The system integrates IR-based wall detection, Time-of-Flight distance sensing, motor encoder feedback and gyroscope-based motion sensing for autonomous navigation and shortest-path calculation.
+
+**Project Overview**
+
+The Maze Solver Robot is an embedded robotics project focused on autonomous maze exploration and pathfinding. It detects walls, maintains maze information, calculates optimal paths using the Flood Fill algorithm and navigates towards the destination.
+
+**The robot follows a two-stage approach:**
+
+Exploration Phase: Explores the maze and identifies walls and accessible paths.
+
+Shortest Path Phase: Calculates and follows the optimal route towards the destination using updated maze information.
+
+**Key Features**
+
+Autonomous navigation through a 16×16 maze.
+
+Flood Fill algorithm for maze exploration and shortest-path calculation.
+
+IR sensor-based wall detection.
+
+VL53L0X Time-of-Flight distance measurement.
+
+Motor encoder feedback for movement control.
+
+6-axis gyroscope for motion sensing.
+
+Dual N20 DC motor control.
+
+Teensy 4.1-based embedded control architecture.
+
+**Hardware Components**
+
 🧠 Working Principle
 
 1. Maze Exploration
