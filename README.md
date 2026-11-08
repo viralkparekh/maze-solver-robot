@@ -124,43 +124,24 @@ The Flood Fill algorithm is a pathfinding technique commonly used in maze-solvin
 **Repository Structure**
 
 maze-solver-robot/
-
 │
-
 ├── README.md
-
 │
-
 ├── firmware/
-
 │   └── maze_solver/
-
 │
-
 ├── hardware/
-
 │   ├── circuit_diagrams/
-
 │   ├── pcb_design/
-
 │   └── pinout/
-
 │
-
 ├── documentation/
-
 │   ├── working_principle.md
-
 │   ├── flood_fill_algorithm.md
-
 │   └── components_list.md
-
 │
-
 └── images/
-
-    ├── robot/
-    
+    ├── robot/    
     └── testing/
 
 **Project Gallery**
